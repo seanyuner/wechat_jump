@@ -1,2 +1,2 @@
 # wechat_jump
-![](file:///F:\Python\other\wechat_jump\chess.png)
+[](file:///F:\Python\other\wechat_jump\chess.png)
