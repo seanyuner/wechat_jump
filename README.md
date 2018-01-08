@@ -18,7 +18,7 @@
 **理论上这是最简单，同时分数也上涨最快的方案**
 
 
-## [方案2](https://github.com/seanyuner/wechat_jump/blob/master/1_track_shadow.py)：
+## [方案2](https://github.com/seanyuner/wechat_jump/blob/master/2_track_shadow.py)：
 
 ### 观察：
 - 下一目标块阴影的位置相对稳定
