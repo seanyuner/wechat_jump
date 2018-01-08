@@ -7,7 +7,9 @@
 
 ---
 **运行环境**：
+
 软件：python3.6、OpenCV2
+
 驱动：adb，用于安卓手机调试，参考[https://github.com/wangshub/wechat_jump_game](https://github.com/wangshub/wechat_jump_game)
 
 ## [方案1](https://github.com/seanyuner/wechat_jump/blob/master/1_track_whitedot_simplest.py)：
