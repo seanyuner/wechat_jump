@@ -3,6 +3,8 @@
 
 经过对游戏的观察，自己想到了几种理论上可行的方案，慢慢完善在这里吧
 
+经实践，发现理论都是完美的，显示都是残酷的，，，tencent也在不断地升级反作弊吧。
+
 
 ## [方案1](https://github.com/seanyuner/wechat_jump/blob/master/1_track_whitedot_simplest.py)：
 
